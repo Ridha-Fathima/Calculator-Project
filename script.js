@@ -36,7 +36,7 @@ function clearCalculate() {
 
     document.getElementById("display1").value = "";
     document.getElementById("display2").value = "";
-    document.getElementById("result").value = "";
+    document.getElementById("result").innerHTML = "";
    
 }
 
